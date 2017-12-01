@@ -1,0 +1,17 @@
+{
+  "name": "review02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "datetime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "formidable": "^1.1.1",
+    "silly-datetime": "^0.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
