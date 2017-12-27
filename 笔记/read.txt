@@ -6,6 +6,8 @@ Node.js原生： http、fs、path、url。 静态服务、简单路由、GET、P
 
 模块：formidable、gm、express
 
+
+
 Express：中间件、MVC建站、模板引擎ejs、静态服务、简单路由、GET、POST请求、MD5加密、图片上传。
 
 服务器的一些概念：Cookie、Session
