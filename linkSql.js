@@ -8,6 +8,9 @@ var express = require("express");
 var MongoClient = require('mongodb').MongoClient;
 
 
+
+
+
 var app = express();
 
 //数据库连接的地址，最后的斜杠表示数据库名字
