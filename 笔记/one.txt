@@ -1,0 +1,5 @@
+mogodb开机
+1.cmd -> mongod --dbpath d:\mogosql
+2.cmd -> mongo;
+
+
